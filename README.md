@@ -35,11 +35,14 @@ Utilize NumPy and Pandas for operations like filtering, transforming, and aggreg
 Create insightful visualizations using Matplotlib and Seaborn, including bar plots, histograms, and scatter plots to uncover trends in the data.
 
 Requirements
+
 To run this project, you will need:
+
 Python 3.x
 Libraries: numpy, pandas, matplotlib, seaborn
 
 Running the Project
+
 Clone the repository to your local machine.
 Open the Jupyter notebook file in Jupyter Notebook or JupyterLab.
 Follow the steps outlined in the notebook to execute the code and analyze the dataset.
